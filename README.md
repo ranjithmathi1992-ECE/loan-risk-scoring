@@ -85,3 +85,7 @@ http://localhost:8080
 - Apache Airflow DAG Automation
 - Big Data ETL Pipeline
 - Credit Risk Analysis
+## Dataset
+100,000 synthetic loan applicant records with 17 ML features
+Run locally: pip install faker pandas && python generate_data.py
+
